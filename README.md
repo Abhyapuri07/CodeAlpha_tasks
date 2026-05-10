@@ -1,4 +1,3 @@
-# CodeAlpha_tasks
 CodeAlpha_Tasks
 
 This repository contains the web development tasks completed during my CodeAlpha Internship using HTML, CSS, and JavaScript.
