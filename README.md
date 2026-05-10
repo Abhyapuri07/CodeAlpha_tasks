@@ -1,11 +1,11 @@
 CodeAlpha_Tasks
 
-This repository contains the web development tasks completed during my CodeAlpha Internship using HTML, CSS, and JavaScript.
+This repository contains the frontend tasks completed during my CodeAlpha Internship using HTML, CSS, and JavaScript.
 
 
-# 🚀 Projects
+🚀 Projects
 
-## 🔢 CodeAlpha Calculator
+🔢 CodeAlpha Calculator
 
 A modern calculator web application built using HTML, CSS, and JavaScript.
 
@@ -18,7 +18,7 @@ A modern calculator web application built using HTML, CSS, and JavaScript.
 
 ---
 
-## 🖼️ CodeAlpha Image Gallery
+🖼️ CodeAlpha Image Gallery
 
 A responsive and interactive image gallery project.
 
